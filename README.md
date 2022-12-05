@@ -16,6 +16,23 @@ Ano 2020 - Meet Flutter and fall in Love with it S2 <br>
 Ano 2021 - Founded a startup(Mude já), participating in seed programs, won 3rd place in Launch Raja Ventures. Won seed money to implement the project as result.
 Ano 2022 - Founded a new startup (Gubi) in educational area.
 
+Solid knowledge of:
+- Firebase
+- Git
+- Json pattern
+- Flutter and Dart
+
+Skills summary:<br>
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+
+Today I'm dedicated to Flutter and Dart development of Android, IOS and web as a Fullstack dev.
+
+You can find me in:
+- https://stackoverflow.com/users/8945078/thiago-silva
+- https://www.linkedin.com/in/thiago-silva-9198a4a/
+- thiagosoaress2@hotmail.com
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosoaress2&hide=contribs,prs&show_icons=true&)
 
@@ -42,7 +59,7 @@ Virtual store - Flutter training project. It´s a complete store project.
 )](https://github.com/thiagosoaress2/lojavirtualFlutter
 )
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosoaress2&repo=fretego )](https://github.com/thiagosoaress2/fretego )
+These are my public repositories. Unfortunatally the newests and better projects are private because of business obligations.
  
 
   
