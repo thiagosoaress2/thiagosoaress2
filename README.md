@@ -41,7 +41,7 @@ You can find me in:
 
 Meet some projects <h3>
  
-Farejador - Social media integrated with marketplace to pets<br> 
+Farejador - Social media integrated with marketplace to pets. MVC Pattern<br> 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosoaress2&repo=fareja)](https://github.com/thiagosoaress2/fareja)
 
 Hackathon project - Wilsons Sons Hackathon. Its a game to employee training developed in 48hrs Hackathon <br>
