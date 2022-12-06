@@ -33,13 +33,13 @@ You can find me in:
 - https://www.linkedin.com/in/thiago-silva-9198a4a/
 - thiagosoaress2@hotmail.com
 
+<div>
+ 
+ <img height="150" src="https://github-readme-stats.vercel.app/api?username=thiagosoaress2&hide=contribs,prs&show_icons=true&include_all_commits=true&count_private=true"/>
+ <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosoaress2&theme=white-blue&layout=compact"/>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosoaress2&hide=contribs,prs&show_icons=true&)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosoaress2)](https://github.com/thiagosoaress2/thiagosoaress2)
-
-
-Meet some projects <h3>
+## Meet some projects <h3>
  
 Farejador - Social media integrated with marketplace to pets. MVC Pattern<br> 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagosoaress2&repo=fareja)](https://github.com/thiagosoaress2/fareja)
