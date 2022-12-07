@@ -26,7 +26,7 @@ Skills summary:<br>
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 
-Today I'm dedicated to Flutter and Dart development of Android, IOS and web as a Fullstack dev.
+# Today I'm dedicated to Flutter and Dart development of Android, IOS and web as a Fullstack dev.
 
 You can find me in:
 - https://stackoverflow.com/users/8945078/thiago-silva
