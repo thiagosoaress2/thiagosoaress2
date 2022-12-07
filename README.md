@@ -1,6 +1,6 @@
-# Olá, meu nome é Thiago Soares / Hello, my name is Thiago Soares
+# Thiago Soares | Dev
 
-Meet my Dev journey
+Meet my Dev journey summary
 
 2000-2003 - High school specialized in Data processing - first touch with devolopment [logics, HTML, C and PASCAL].<br>
 Ano 2001-2003 - EArly internship in Imprensa Oficial do Estado do RJ in SENAI - 1 year and a half, first contact with Corel draw and design softwares <br>
